@@ -53,3 +53,6 @@ http://www.cnblogs.com/Wenwang/archive/2012/04/26/2470403.html // H5表单验证
 
 http://hjingren.cn/2017/05/31/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%95%B4%E7%90%86/#  //征服前端
 
+https://blog.iswtf.com/ //全面知识库
+
+
