@@ -55,4 +55,20 @@ http://hjingren.cn/2017/05/31/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%95%B4%E7%9
 
 https://blog.iswtf.com/ //全面知识库
 
+https://tinypng.com/ //png压缩图片
+
+http://blog.51cto.com/mikewang/1432136 //Protobuf详解
+
+http://ai.baidu.com/sdk#bfr //SDK资源下载
+
+https://blog.csdn.net/niteip/article/details/69788420 //各种资料整理汇总
+
+https://www.cnblogs.com/liu666/p/5751363.html //JS面向对象函数的四种调用模式
+
+https://segmentfault.com/a/1190000011788380 //常见浏览器跨域处理
+
+https://www.json.cn/ //json在线解析及格式化验证
+
+https://www.kancloud.cn/jikeytang/qq/81134 //js前端开发群资源教程
+
 
